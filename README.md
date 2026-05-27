@@ -38,7 +38,7 @@ Below is the schematic diagram based on the provided wiring setup:
 
 > **[📝 NOTE]** Replace the image link below with the link to the image file you uploaded to your GitHub repository.
 
-![Automatic Toll Gate Wiring Diagram](link_to_your_uploaded_image_on_github)
+![Automatic Toll Gate Wiring Diagram](Rangkaian.jpeg)
 
 ### Pin Connection Table
 
