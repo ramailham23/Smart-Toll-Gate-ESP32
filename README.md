@@ -36,8 +36,6 @@ This project is a smart automatic toll gate simulation designed using an **ESP32
 
 Below is the schematic diagram based on the provided wiring setup:
 
-> **[📝 NOTE]** Replace the image link below with the link to the image file you uploaded to your GitHub repository.
-
 ![Automatic Toll Gate Wiring Diagram](Rangkaian.jpeg)
 
 ### Pin Connection Table
